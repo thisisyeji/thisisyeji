@@ -10,8 +10,7 @@
  
 <div align=center>
 
-### Hi there 👋 
-I'm **Yeji Kim**. 
+### Hi there 👋  I'm **Yeji Kim**. 
 
 </br>
 
