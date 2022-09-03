@@ -1,5 +1,6 @@
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f9f4fe,100:d2a6f6&height=200&section=header&text=Yeji%20Kim&desc=Welcom%20to%20my%20Github!&fontSize=60&descSize=30&fontAlignY=60&descAlignY=65&animation=fadeIn&fontAlign=80&descAlign=50&stroke=999999&strokeWidth=1&fontColor=ffffff" />
- 
+</div>
  
 <div align=right> 
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjkim0109%2Fhit-counter&count_bg=%23F2D6FC&title_bg=%23E97EF4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -13,8 +14,6 @@ I'm Yeji Kim.
 📫 How to reach me: </br>
 <a href="mailto:yjkkim0109@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&?style=flat&logo=Gmail&logoColor=white"/> </a>
 <a href="https://www.linkedin.com/in/yeji-kim0109/"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&?style=flat&logo=LinkedIn&logoColor=white"/> </a>
-
-
 
 </div>
 
