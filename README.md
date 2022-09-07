@@ -35,12 +35,11 @@
 </br>
 
 ## ⭐️ More
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjkim0109&layout=compact)](https://github.com/yjkim0109/github-readme-stats) 
-![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjkim0109&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisyeji&layout=compact)](https://github.com/thisisyeji/github-readme-stats) 
+![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyeji&show_icons=true&theme=buefy)
 
 
 <!--
-**yjkim0109/yjkim0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
