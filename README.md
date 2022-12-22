@@ -14,7 +14,13 @@
 
 </br>
 
-📫 How to reach me: </br>
+
+💖 My Portfolio </br>
+<a href="https://www.linkedin.com/in/yeji-kim0109/"><img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-FF00A0.svg?&?style=flat&logo=Undertale&logoColor=white"/> </a>
+</br>
+
+✉️ Contact me
+</br>
 <a href="mailto:yjkkim0109@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&?style=flat&logo=Gmail&logoColor=white"/> </a>&nbsp;
 <a href="https://www.linkedin.com/in/yeji-kim0109/"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&?style=flat&logo=LinkedIn&logoColor=white"/> </a>
 
@@ -25,12 +31,13 @@
 
 ## 💻 Skills
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&?style=flat&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=flat&logo=CSS3&logoColor=white"/> <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=flat&logo=Sass&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&?style=flat&logo=JavaScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&?style=flat&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&?style=flat&logo=CSS3&logoColor=white"/> <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&?style=flat&logo=Sass&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&?style=flat&logo=JavaScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&?style=flat&logo=React&logoColor=white"/> <img alt="styled_components" src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+
 
 </br>
 
 ## 🛠 Tools
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&?style=flat&logo=Figma&logoColor=white"/> 
+<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&?style=flat&logo=Figma&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&?style=flat&logo=Github&logoColor=white"/> 
 
 </br>
 
