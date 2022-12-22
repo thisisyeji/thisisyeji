@@ -16,7 +16,7 @@
 
 
 💖 My Portfolio </br>
-<a href="https://www.linkedin.com/in/yeji-kim0109/"><img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-FF00A0.svg?&?style=flat&logo=Undertale&logoColor=white"/> </a>
+<a href="https://thisisyeji.github.io/about"><img alt="Portfolio" src ="https://img.shields.io/badge/Portfolio-FF00A0.svg?&?style=flat&logo=Undertale&logoColor=white"/> </a>
 </br>
 
 ✉️ Contact me
