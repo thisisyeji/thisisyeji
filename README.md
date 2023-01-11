@@ -22,7 +22,8 @@
 ✉️ Contact me
 </br>
 <a href="mailto:yjkkim0109@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&?style=flat&logo=Gmail&logoColor=white"/> </a>&nbsp;
-<a href="https://www.linkedin.com/in/yeji-kim0109/"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&?style=flat&logo=LinkedIn&logoColor=white"/> </a>
+
+<!-- <a href="https://www.linkedin.com/in/yeji-kim0109/"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&?style=flat&logo=LinkedIn&logoColor=white"/> </a> -->
 
 </div>
 
